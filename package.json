@@ -1,0 +1,20 @@
+{
+  "name": "my-codemods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricedb/my-codemods.git"
+  },
+  "keywords": [],
+  "author": "Maurice de Beijer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauricedb/my-codemods/issues"
+  },
+  "homepage": "https://github.com/mauricedb/my-codemods#readme"
+}
